@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariogranados" alt="mariogranados" /></a> </p>
 
-- 🔭 I’m currently working on **A Movie App**
+- 🔭 I’m currently working on **Pokemon App**
 
 - 🌱 I’m currently learning **React and Projuicer**
 
 - 👯 I’m looking to collaborate on **An Investing app**
 
-- 🤝 I’m looking for help with **Making my code more efficient**
+- 🤝 I’m looking for help with **Making VSTs**
 
 - 📫 How to reach me **Mario.Alberto.Granados1@gmail.com**
 
