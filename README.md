@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/MarioGranados">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGranados&layout=compact&theme=dark&langs_count=4" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGranados&layout=compact&theme=dark&langs_count=5" />
 </a>
 <a href="https://github.com/MarioGranados">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=MarioGranados&theme=dark&layout=compact&repo=convoychat&hide=stars,prs&custom_title=My GitHub Stats" />
