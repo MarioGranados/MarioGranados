@@ -3,18 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariogranados" alt="mariogranados" /></a> </p>
 
-- 🔭 I’m currently working on **Pokemon App**
-
-- 🌱 I’m currently learning **React and Projuicer**
-
-- 👯 I’m looking to collaborate on **An Investing app**
-
-- 🤝 I’m looking for help with **Making VSTs**
-
-- 📫 How to reach me **Mario.Alberto.Granados1@gmail.com**
-
-- ⚡ Fun fact **I decided to learn how to code because I wanted to make software for my Digital Audio Workstation**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mario-granados-18a21b186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-granados-18a21b186" height="30" width="40" /></a>
