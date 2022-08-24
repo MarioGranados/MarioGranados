@@ -19,28 +19,13 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/MarioGranados">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGranados&layout=compact&theme=dark&langs_count=7" />
-</a>
-<a href="https://github.com/MarioGranados">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=MarioGranados&theme=dark&layout=compact&repo=convoychat&hide=stars,prs&custom_title=My GitHub Stats" />
-</a>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGranados&layout=compact&theme=github_dark&langs_count=9" alt="MarioGranados"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=MarioGranados&count_private=true&theme=github_dark" alt="MarioGranados"/>
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarioGranados&theme=highcontrast" alt="MarioGranados"/>
 </p><br>
 
 <div align="center">
 <img height="25em" src="https://komarev.com/ghpvc/?username=MarioGranados" />
 </div>
 
-<!--
-**MarioGranados/MarioGranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a movie-application
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on E-Commerce Sites
-- 🤔 I’m looking for help with making APIs
-- 💬 Ask me about my portfolio projects
-- 📫 How to reach me: mario.alberto.granados1@gmail.com
-- ⚡ Fun fact: I started coding because I wanted to create software for my Digital Audio Workstation.
--->
