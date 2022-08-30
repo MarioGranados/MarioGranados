@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Granados</h1>
 <h3 align="center">I like to solve all my problems with code</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariogranados" alt="mariogranados" /></a> </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mario-granados-18a21b186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-granados-18a21b186" height="30" width="40" /></a>
